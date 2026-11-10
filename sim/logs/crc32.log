@@ -1,0 +1,5 @@
+WARNING: tb/tb_enet_crc32.sv:67: $readmemh(tb/vectors/crc32_data.hex): Not enough words in the file for the requested range [0:65535].
+WARNING: tb/tb_enet_crc32.sv:68: $readmemh(tb/vectors/crc32_len.hex): Not enough words in the file for the requested range [0:256].
+WARNING: tb/tb_enet_crc32.sv:69: $readmemh(tb/vectors/crc32_exp.hex): Not enough words in the file for the requested range [0:255].
+PASS 64 messages, 34759 bytes, 129 checks (29 init+first byte, 39 with gaps)
+tb/tb_enet_crc32.sv:130: $finish called at 531512000 (1ps)
