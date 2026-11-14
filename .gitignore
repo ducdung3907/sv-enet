@@ -1,0 +1,16 @@
+# simulation outputs
+*.vvp
+*.vcd
+*.fst
+sim/logs/
+# python
+__pycache__/
+*.pyc
+.venv/
+# review patches and downloads
+*.patch
+*.zip
+# editors / OS
+.vscode/
+Thumbs.db
+.DS_Store
